@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>599293737061-78iltk83bvs85qudjlh83cn5s8m78b8t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.599293737061-78iltk83bvs85qudjlh83cn5s8m78b8t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBnEte0s9R8TE8--BIMsZkiw7JRImMXS-w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>599293737061</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ArmaanGupta.Apollo</string>
+	<key>PROJECT_ID</key>
+	<string>apollo-b705f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>apollo-b705f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:599293737061:ios:ae2967c7dc2fad485cae8c</string>
+	<key>DATABASE_URL</key>
+	<string>https://apollo-b705f.firebaseio.com</string>
+</dict>
+</plist>
